@@ -6,7 +6,7 @@ by James Alikhani
 October 2017    
 
 
-In this machine learning practice, from [Kaggle] (https://www.kaggle.com/wendykan/lending-club-loan-data), I have used Python to load the loan data, clean the data, prepare the data for classification aalgorithm, and finally applied scikit-learn tool for the classification predictive models with metric analysis. 
+In this machine learning practice, from [Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data), I have used Python to load the loan data, clean the data, prepare the data for classification aalgorithm, and finally applied scikit-learn tool for the classification predictive models with metric analysis. 
 The goal of this practice is to build and train a predictive model over real-world data that can predict the loan borrowers with a high chance of not fully pay off their loan that is called "Charged Off" status. This helps investors to reduce their risk of financial investment. 
 
 
